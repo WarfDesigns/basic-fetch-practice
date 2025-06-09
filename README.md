@@ -1,1 +1,1 @@
-# basic-fetch-practice
+This is a basic fetch practice assignment from code you.
