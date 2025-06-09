@@ -58,11 +58,14 @@ text-align: center;
     .user-card p {
         margin-bottom: 0.25rem;
     }
-.footer {
+footer {
+    color: #fff;
     text-align: center;
-    margin-top: 2rem;
-    font-size: 0.875rem;
-    color: #000;
+    background-color: #000;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
 }
 
     @media (max-width: 600px) {
